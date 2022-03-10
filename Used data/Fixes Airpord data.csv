@@ -1,0 +1,406 @@
+,City,IATA,Acre,Name
+0,Birmingham,BHM,2170.0,Birmingham BHM
+1,Dothan,DHN,1150.0,Dothan DHN
+2,Huntsville,HSV,6000.0,Huntsville HSV
+3,Mobile,MOB,1717.0,Mobile MOB
+4,Montgomery,MGM,1907.0,Montgomery MGM
+5,Adak,ADK,1525.0,Adak ADK
+6,Anchorage,,1525.0,
+7,Anchorage,MRI,436.0,Anchorage MRI
+8,Anchorage,ANC,4608.0,Anchorage ANC
+9,Aniak,ANI,1722.0,Aniak ANI
+10,Barrow,BRW,1525.0,Barrow BRW
+11,Bethel,BET,1056.0,Bethel BET
+12,Cordova,CDV,2959.0,Cordova CDV
+13,Deadhorse,SCC,6506.0,Deadhorse SCC
+14,Dillingham,DLG,620.0,Dillingham DLG
+15,Fairbanks,FAI,3470.0,Fairbanks FAI
+16,Galena,GAL,1250.0,Galena GAL
+17,Gustavus,GST,1821.0,Gustavus GST
+18,Homer,HOM,1040.0,Homer HOM
+19,Juneau,JNU,662.0,Juneau JNU
+20,Kenai,ENA,1200.0,Kenai ENA
+21,Ketchikan,KTN,2600.0,Ketchikan KTN
+22,King Salmon,AKN,5277.0,King Salmon AKN
+23,Kodiak,ADQ,1525.0,Kodiak ADQ
+24,Kotzebue,OTZ,1480.0,Kotzebue OTZ
+25,Nome,OME,1525.0,Nome OME
+26,Petersburg,PSG,1525.0,Petersburg PSG
+27,Sitka,SIT,1525.0,Sitka SIT
+28,St. Mary's,KSM,3600.0,St. Mary's KSM
+29,Unalakleet,UNK,5837.0,Unalakleet UNK
+30,Unalaska,DUT,1525.0,Unalaska DUT
+31,Valdez,VDZ,836.0,Valdez VDZ
+32,Wrangell,WRG,1525.0,Wrangell WRG
+33,Yakutat,YAK,1525.0,Yakutat YAK
+34,Bullhead City,IFP,650.0,Bullhead City IFP
+35,Flagstaff,FLG,763.0,Flagstaff FLG
+36,Grand Canyon,GCN,859.0,Grand Canyon GCN
+37,Mesa,AZA,3020.0,Mesa AZA
+38,Page,PGA,555.0,Page PGA
+39,Peach Springs,GCW,350.0,Peach Springs GCW
+40,Phoenix,PHX,3400.0,Phoenix PHX
+41,Tucson,TUS,7938.0,Tucson TUS
+42,Yuma,YUM,3100.0,Yuma YUM
+43,Fayetteville,XNA,2184.0,Fayetteville XNA
+44,Fort Smith,FSM,1359.0,Fort Smith FSM
+45,Little Rock,LIT,2000.0,Little Rock LIT
+46,Texarkana,TXK,964.0,Texarkana TXK
+47,Arcata,ACV,745.0,Arcata ACV
+48,Bakersfield,BFL,1357.0,Bakersfield BFL
+49,Burbank,BUR,555.0,Burbank BUR
+50,Carlsbad,CRQ,466.0,Carlsbad CRQ
+51,Carlsbad,CLD,466.0,Carlsbad CLD
+52,Chico,CIC,1475.0,Chico CIC
+53,Crescent City,CEC,544.0,Crescent City CEC
+54,El Centro,IPL,370.0,El Centro IPL
+55,Fresno,FAT,1728.0,Fresno FAT
+56,Inyokern,IYK,1640.0,Inyokern IYK
+57,Long Beach,LGB,1166.0,Long Beach LGB
+58,Los Angeles,LAX,3500.0,Los Angeles LAX
+59,Mammoth Lakes,MMH,230.0,Mammoth Lakes MMH
+60,Modesto,MOD,435.0,Modesto MOD
+61,Monterey,MRY,496.0,Monterey MRY
+62,Oakland,OAK,2600.0,Oakland OAK
+63,Ontario,ONT,1741.0,Ontario ONT
+64,Oxnard,OXR,230.0,Oxnard OXR
+65,Palm Springs,PSP,940.0,Palm Springs PSP
+66,Palmdale,PMD,5832.0,Palmdale PMD
+67,Redding,RDD,1584.0,Redding RDD
+68,Sacramento,SMF,6000.0,Sacramento SMF
+69,San Diego,SAN,663.0,San Diego SAN
+70,San Francisco,SFO,5207.0,San Francisco SFO
+71,San Jose,SJC,1050.0,San Jose SJC
+72,San Luis Obispo,SBP,340.0,San Luis Obispo SBP
+73,Santa Ana,SNA,504.0,Santa Ana SNA
+74,Santa Barbara,SBA,948.0,Santa Barbara SBA
+75,Santa Maria,SMX,2516.0,Santa Maria SMX
+76,Santa Rosa,STS,1125.0,Santa Rosa STS
+77,Stockton,SCK,1552.0,Stockton SCK
+78,Visalia,VIS,821.0,Visalia VIS
+79,Aspen,ASE,573.0,Aspen ASE
+80,Colorado Springs,COS,7200.0,Colorado Springs COS
+81,Denver,DEN,33531.0,Denver DEN
+82,Durango,DRO,1281.0,Durango DRO
+83,Eagle,EGE,632.0,Eagle EGE
+84,Grand Junction,GJT,2357.0,Grand Junction GJT
+85,Gunnison,GUC,1600.0,Gunnison GUC
+86,Hayden,HDN,671.0,Hayden HDN
+87,Montrose,MTJ,966.0,Montrose MTJ
+88,Telluride,TEX,542.0,Telluride TEX
+89,Hartford,BDL,2021.0,Hartford BDL
+90,New Haven,HVN,394.0,New Haven HVN
+91,Wilmington,ILG,1250.0,Wilmington ILG
+92,Daytona Beach,DAB,1800.0,Daytona Beach DAB
+93,Fort Lauderdale,FLL,1380.0,Fort Lauderdale FLL
+94,Fort Myers,RSW,13555.0,Fort Myers RSW
+95,Gainesville,GNV,1650.0,Gainesville GNV
+96,Jacksonville,JAX,7911.0,Jacksonville JAX
+97,Key West,EYW,334.0,Key West EYW
+98,Marathon,MTH,197.0,Marathon MTH
+99,Melbourne,MLB,2800.0,Melbourne MLB
+100,Miami,MIA,3300.0,Miami MIA
+101,Naples,APF,732.0,Naples APF
+102,Orlando,MCO,12600.0,Orlando MCO
+103,Orlando,SFB,3000.0,Orlando SFB
+104,Panama City,PFN,4000.0,Panama City PFN
+105,Panama City Beach,ECP,4000.0,Panama City Beach ECP
+106,Pensacola,PNS,1211.0,Pensacola PNS
+107,Punta Gorda,PGD,1934.0,Punta Gorda PGD
+108,Sarasota,SRQ,1102.0,Sarasota SRQ
+109,St. Augustine,UST,1.0,St. Augustine UST
+110,St. Petersburg,PIE,1900.0,St. Petersburg PIE
+111,Tallahassee,TLH,2485.0,Tallahassee TLH
+112,Tampa,TPA,3300.0,Tampa TPA
+113,Valparaiso,VPS,1525.0,Valparaiso VPS
+114,West Palm Beach,PBI,2120.0,West Palm Beach PBI
+115,Albany,ABY,980.0,Albany ABY
+116,Atlanta,ATL,4700.0,Atlanta ATL
+117,Augusta,AGS,1411.0,Augusta AGS
+118,Brunswick,BQK,2003.0,Brunswick BQK
+119,Columbus,CSG,680.0,Columbus CSG
+120,Macon,MCN,1149.0,Macon MCN
+121,Savannah,SAV,3650.0,Savannah SAV
+122,Valdosta,VLD,760.0,Valdosta VLD
+123,Agana,GUM,1657.0,Agana GUM
+124,Hilo,ITO,1007.0,Hilo ITO
+125,Honolulu,HNL,4220.0,Honolulu HNL
+126,Kahului,OGG,1391.0,Kahului OGG
+127,Kailua-Kona,KOA,2700.0,Kailua-Kona KOA
+128,Kaunakakai,MKK,288.0,Kaunakakai MKK
+129,Lanai City,LNY,505.0,Lanai City LNY
+130,Lihue,LIH,915.0,Lihue LIH
+131,Boise,BOI,20.0,Boise BOI
+132,Hailey,SUN,211.0,Hailey SUN
+133,Idaho Falls,IDA,866.0,Idaho Falls IDA
+134,Lewiston,LWS,865.0,Lewiston LWS
+135,Pocatello,PIH,3374.0,Pocatello PIH
+136,Twin Falls,TWF,1468.0,Twin Falls TWF
+137,Belleville,BLV,7003.0,Belleville BLV
+138,Bloomington,BMI,1968.0,Bloomington BMI
+139,Champaign,CMI,1799.0,Champaign CMI
+140,Chicago,MDW,260.0,Chicago MDW
+141,Chicago,ORD,7627.0,Chicago ORD
+142,Marion,MWA,1300.0,Marion MWA
+143,Moline,MLI,2021.0,Moline MLI
+144,Peoria,PIA,3800.0,Peoria PIA
+145,Quincy,UIN,1101.0,Quincy UIN
+146,Rockford,RFD,2900.0,Rockford RFD
+147,Springfield,SPI,2300.0,Springfield SPI
+148,Evansville,EVV,1250.0,Evansville EVV
+149,Fort Wayne,FWA,3351.0,Fort Wayne FWA
+150,Indianapolis,IND,2005.0,Indianapolis IND
+151,South Bend,SBN,2200.0,South Bend SBN
+152,Cedar Rapids,CID,3288.0,Cedar Rapids CID
+153,Des Moines,DSM,2625.0,Des Moines DSM
+154,Dubuque,DBQ,1240.0,Dubuque DBQ
+155,Sioux City,SUX,2460.0,Sioux City SUX
+156,Waterloo,ALO,2583.0,Waterloo ALO
+157,Garden City,GCK,1848.0,Garden City GCK
+158,Manhattan,MHK,680.0,Manhattan MHK
+159,Topeka,FOE,2854.0,Topeka FOE
+160,Wichita,ICT,3248.0,Wichita ICT
+161,Cincinnati,CVG,7700.0,Cincinnati CVG
+162,Lexington,LEX,911.0,Lexington LEX
+163,Louisville,SDF,1500.0,Louisville SDF
+164,Owensboro,OWB,880.0,Owensboro OWB
+165,Paducah,PAH,1018.0,Paducah PAH
+166,Alexandria,AEX,3212.0,Alexandria AEX
+167,Baton Rouge,BTR,1250.0,Baton Rouge BTR
+168,Lafayette,LFT,746.0,Lafayette LFT
+169,Lake Charles,LCH,1878.0,Lake Charles LCH
+170,Monroe,MLU,2660.0,Monroe MLU
+171,New Orleans,MSY,1500.0,New Orleans MSY
+172,Shreveport,SHV,1625.0,Shreveport SHV
+173,Bangor,BGR,2079.0,Bangor BGR
+174,Portland,PWM,726.0,Portland PWM
+175,Presque Isle,PQI,1489.0,Presque Isle PQI
+176,Rockland,RKD,538.0,Rockland RKD
+177,Baltimore,BWI,3160.0,Baltimore BWI
+178,Hagerstown,HGR,693.0,Hagerstown HGR
+179,Salisbury,SBY,695.0,Salisbury SBY
+180,Boston,BOS,2384.0,Boston BOS
+181,Hyannis,HYA,639.0,Hyannis HYA
+182,Nantucket,ACK,1200.0,Nantucket ACK
+183,Provincetown,PVC,310.0,Provincetown PVC
+184,Vineyard Haven,MVY,688.0,Vineyard Haven MVY
+185,Worcester,ORH,1000.0,Worcester ORH
+186,Alpena,APN,3084.0,Alpena APN
+187,Calumet,CMX,1996.0,Calumet CMX
+188,Detroit,DTW,4850.0,Detroit DTW
+189,Escanaba,ESC,944.0,Escanaba ESC
+190,Flint,FNT,1550.0,Flint FNT
+191,Grand Rapids,GRR,3127.0,Grand Rapids GRR
+192,Iron Mountain,IMT,3127.0,Iron Mountain IMT
+193,Kalamazoo,AZO,832.0,Kalamazoo AZO
+194,Lansing,LAN,2160.0,Lansing LAN
+195,Marquette,MQT,2100.0,Marquette MQT
+196,Muskegon,MKG,1200.0,Muskegon MKG
+197,Pellston,PLN,1675.0,Pellston PLN
+198,Saginaw,MBS,3200.0,Saginaw MBS
+199,Sault Ste. Marie,CIU,1850.0,Sault Ste. Marie CIU
+200,Traverse City,TVC,1026.0,Traverse City TVC
+201,Bemidji,BJI,1740.0,Bemidji BJI
+202,Brainerd,BRD,2597.0,Brainerd BRD
+203,Duluth,DLH,3020.0,Duluth DLH
+204,Hibbing,HIB,1600.0,Hibbing HIB
+205,International Falls,INL,681.0,International Falls INL
+206,Minneapolis,MSP,2930.0,Minneapolis MSP
+207,Rochester,RST,2400.0,Rochester RST
+208,St. Cloud,STC,1414.0,St. Cloud STC
+209,Columbus,GTR,1000.0,Columbus GTR
+210,Gulfport,GPT,1400.0,Gulfport GPT
+211,Jackson,JAN,3381.0,Jackson JAN
+212,Meridian,MEI,1000.0,Meridian MEI
+213,Tupelo,TUP,1061.0,Tupelo TUP
+214,Columbia,COU,1538.0,Columbia COU
+215,Joplin,JLN,970.0,Joplin JLN
+216,Kansas City,MCI,10680.0,Kansas City MCI
+217,Springfield,SGF,2750.0,Springfield SGF
+218,St. Louis,STL,867.0,St. Louis STL
+219,Billings,BIL,2300.0,Billings BIL
+220,Bozeman,BZN,2481.0,Bozeman BZN
+221,Butte,BTM,890.0,Butte BTM
+222,Great Falls,GTF,2113.0,Great Falls GTF
+223,Helena,HLN,1224.0,Helena HLN
+224,Kalispell,FCA,1525.0,Kalispell FCA
+225,Missoula,MSO,2700.0,Missoula MSO
+226,Sidney,SDY,335.0,Sidney SDY
+227,West Yellowstone,WYS,735.0,West Yellowstone WYS
+228,Grand Island,GRI,1847.0,Grand Island GRI
+229,Lincoln,LNK,5000.0,Lincoln LNK
+230,Omaha,OMA,2650.0,Omaha OMA
+231,Boulder City,BLD,530.0,Boulder City BLD
+232,Elko,EKO,700.0,Elko EKO
+233,Las Vegas,LAS,2800.0,Las Vegas LAS
+234,Las Vegas,VGT,920.0,Las Vegas VGT
+235,Reno,RNO,1450.0,Reno RNO
+236,Lebanon,LEB,563.0,Lebanon LEB
+237,Manchester,MHT,1500.0,Manchester MHT
+238,Portsmouth,PSM,3000.0,Portsmouth PSM
+239,Atlantic City,ACY,5000.0,Atlantic City ACY
+240,Newark,EWR,2027.0,Newark EWR
+241,Trenton,TTN,1345.0,Trenton TTN
+242,Albuquerque,ABQ,2039.0,Albuquerque ABQ
+243,Hobbs,HOB,898.0,Hobbs HOB
+244,Roswell,ROW,5029.0,Roswell ROW
+245,Santa Fe,SAF,2128.0,Santa Fe SAF
+246,Albany,ALB,1000.0,Albany ALB
+247,Binghamton,BGM,1199.0,Binghamton BGM
+248,Buffalo,BUF,1000.0,Buffalo BUF
+249,Elmira,ELM,1000.0,Elmira ELM
+250,Farmingdale,FRG,526.0,Farmingdale FRG
+251,Islip,ISP,1311.0,Islip ISP
+252,Ithaca,ITH,531.0,Ithaca ITH
+253,New York,JFK,5200.0,New York JFK
+254,New York,LGA,680.0,New York LGA
+255,Newburgh,SWF,1552.0,Newburgh SWF
+256,Niagara Falls,IAG,1067.0,Niagara Falls IAG
+257,Plattsburgh,PBG,1912.0,Plattsburgh PBG
+258,Rochester,ROC,1136.0,Rochester ROC
+259,Syracuse,SYR,2000.0,Syracuse SYR
+260,Watertown,ART,1060.0,Watertown ART
+261,White Plains,HPN,702.0,White Plains HPN
+262,Asheville,AVL,900.0,Asheville AVL
+263,Charlotte,CLT,5558.0,Charlotte CLT
+264,Concord,USA,750.0,Concord USA
+265,Fayetteville,FAY,1343.0,Fayetteville FAY
+266,Greensboro,GSO,400.0,Greensboro GSO
+267,Greenville,PGV,872.0,Greenville PGV
+268,Hickory,HKY,739.0,Hickory HKY
+269,Jacksonville,OAJ,675.0,Jacksonville OAJ
+270,Kinston,ISO,1525.0,Kinston ISO
+271,New Bern,EWN,785.0,New Bern EWN
+272,Pinehurst,SOP,500.0,Pinehurst SOP
+273,Raleigh,RDU,5000.0,Raleigh RDU
+274,Wilmington,ILM,1800.0,Wilmington ILM
+275,Bismarck,BIS,2425.0,Bismarck BIS
+276,Dickinson,DIK,626.0,Dickinson DIK
+277,Fargo,FAR,2500.0,Fargo FAR
+278,Grand Forks,GFK,1618.0,Grand Forks GFK
+279,Minot,MOT,1563.0,Minot MOT
+280,Williston,ISN,740.0,Williston ISN
+281,Akron,CAK,213.0,Akron CAK
+282,Cincinnati,LUK,1140.0,Cincinnati LUK
+283,Cleveland,CLE,1717.0,Cleveland CLE
+284,Columbus,CMH,2265.0,Columbus CMH
+285,Columbus,LCK,4342.0,Columbus LCK
+286,Dayton,DAY,4200.0,Dayton DAY
+287,Toledo,TOL,2345.0,Toledo TOL
+288,Youngstown,YNG,1468.0,Youngstown YNG
+289,Lawton,LAW,1300.0,Lawton LAW
+290,Oklahoma City,OKC,8081.0,Oklahoma City OKC
+291,Tulsa,TUL,4360.0,Tulsa TUL
+292,Eugene,EUG,2600.0,Eugene EUG
+293,Medford,MFR,905.0,Medford MFR
+294,North Bend,OTH,619.0,North Bend OTH
+295,Portland,PDX,3000.0,Portland PDX
+296,Redmond,RDM,2518.0,Redmond RDM
+297,Salem,SLE,751.0,Salem SLE
+298,Allentown,ABE,2278.0,Allentown ABE
+299,Erie,ERI,450.0,Erie ERI
+300,Latrobe,LBE,945.0,Latrobe LBE
+301,Middletown,MDT,680.0,Middletown MDT
+302,Philadelphia,PHL,2302.0,Philadelphia PHL
+303,Pittsburgh,PIT,10000.0,Pittsburgh PIT
+304,State College,SCE,1091.0,State College SCE
+305,Wilkes-Barre,AVP,23.0,Wilkes-Barre AVP
+306,Williamsport,IPT,535.0,Williamsport IPT
+307,Aguadilla,BQN,1600.0,Aguadilla BQN
+308,Ceiba,NRR,1646.0,Ceiba NRR
+309,Culebra,CPX,15.0,Culebra CPX
+310,Ponce,PSE,274.0,Ponce PSE
+311,San Juan,SIG,102.0,San Juan SIG
+312,San Juan,SJU,1600.0,San Juan SJU
+313,Vieques,VQS,124.0,Vieques VQS
+314,Block Island,BID,136.0,Block Island BID
+315,Providence,PVD,1525.0,Providence PVD
+316,Westerly,WST,321.0,Westerly WST
+317,Charleston,CHS,2060.0,Charleston CHS
+318,Columbia,CAE,2600.0,Columbia CAE
+319,Florence,FLO,1436.0,Florence FLO
+320,Greenville,GSP,3500.0,Greenville GSP
+321,Hilton Head Island,HHH,131.0,Hilton Head Island HHH
+322,Myrtle Beach,MYR,3795.0,Myrtle Beach MYR
+323,Aberdeen,ABR,1284.0,Aberdeen ABR
+324,Rapid City,RAP,1655.0,Rapid City RAP
+325,Sioux Falls,FSD,1570.0,Sioux Falls FSD
+326,Bristol,TRI,1250.0,Bristol TRI
+327,Chattanooga,CHA,950.0,Chattanooga CHA
+328,Knoxville,TYS,9000.0,Knoxville TYS
+329,Memphis,MEM,3900.0,Memphis MEM
+330,Nashville,BNA,3900.0,Nashville BNA
+331,Abilene,ABI,1644.0,Abilene ABI
+332,Amarillo,AMA,3547.0,Amarillo AMA
+333,Austin,AUS,4242.0,Austin AUS
+334,Beaumont,BPT,1799.0,Beaumont BPT
+335,Brownsville,BRO,1700.0,Brownsville BRO
+336,College Station,CLL,700.0,College Station CLL
+337,Corpus Christi,CRP,2457.0,Corpus Christi CRP
+338,Dallas,DAL,1300.0,Dallas DAL
+339,Dallas,DFW,17207.0,Dallas DFW
+340,El Paso,ELP,6670.0,El Paso ELP
+341,Fort Hood,GRK,1525.0,Fort Hood GRK
+342,Harlingen,HRL,2428.0,Harlingen HRL
+343,Houston,IAH,10000.0,Houston IAH
+344,Houston,HOU,1304.0,Houston HOU
+345,Laredo,LRD,1796.0,Laredo LRD
+346,Longview,GGG,1300.0,Longview GGG
+347,Lubbock,LBB,3000.0,Lubbock LBB
+348,McAllen,MFE,370.0,McAllen MFE
+349,Midland,MAF,1600.0,Midland MAF
+350,San Angelo,SJT,1503.0,San Angelo SJT
+351,San Antonio,SAT,2305.0,San Antonio SAT
+352,Tyler,TYR,1200.0,Tyler TYR
+353,Victoria,VCT,1766.0,Victoria VCT
+354,Waco,ACT,1369.0,Waco ACT
+355,Wichita Falls,SPS,3800.0,Wichita Falls SPS
+356,Charlotte Amalie,STT,280.0,Charlotte Amalie STT
+357,Christiansted,STX,1455.0,Christiansted STX
+358,Cedar City,CDC,1040.0,Cedar City CDC
+359,Ogden,OGD,720.0,Ogden OGD
+360,Provo,PVU,869.0,Provo PVU
+361,Salt Lake City,SLC,7700.0,Salt Lake City SLC
+362,St. George,SGU,1204.0,St. George SGU
+363,Burlington,BTV,942.0,Burlington BTV
+364,Charlottesville,CHO,754.0,Charlottesville CHO
+365,Lynchburg,LYH,872.0,Lynchburg LYH
+366,Newport News,PHF,1800.0,Newport News PHF
+367,Norfolk,ORF,1300.0,Norfolk ORF
+368,Richmond,RIC,2500.0,Richmond RIC
+369,Roanoke,ROA,912.0,Roanoke ROA
+370,Washington,DCA,861.0,Washington DCA
+371,Washington,IAD,13000.0,Washington IAD
+372,Bellingham,BLI,2190.0,Bellingham BLI
+373,Friday Harbor,FRD,145.0,Friday Harbor FRD
+374,Pasco,PSC,2235.0,Pasco PSC
+375,Port Angeles,CLM,797.0,Port Angeles CLM
+376,Pullman,PUW,467.0,Pullman PUW
+377,Seattle,BFI,634.0,Seattle BFI
+378,Seattle,SEA,2500.0,Seattle SEA
+379,Spokane,GEG,6140.0,Spokane GEG
+380,Walla Walla,ALW,2319.0,Walla Walla ALW
+381,Wenatchee,EAT,665.0,Wenatchee EAT
+382,Yakima,YKM,825.0,Yakima YKM
+383,Charleston,CRW,767.0,Charleston CRW
+384,Clarksburg,CKB,434.0,Clarksburg CKB
+385,Huntington,HTS,1300.0,Huntington HTS
+386,Lewisburg,LWB,472.0,Lewisburg LWB
+387,Morgantown,MGW,494.0,Morgantown MGW
+388,Appleton,ATW,1638.0,Appleton ATW
+389,Eau Claire,EAU,1100.0,Eau Claire EAU
+390,Green Bay,GRB,2441.0,Green Bay GRB
+391,La Crosse,LSE,1380.0,La Crosse LSE
+392,Madison,MSN,3500.0,Madison MSN
+393,Milwaukee,MKE,2180.0,Milwaukee MKE
+394,Mosinee,CWA,1800.0,Mosinee CWA
+395,Rhinelander,RHI,1259.0,Rhinelander RHI
+396,Casper,CPR,5150.0,Casper CPR
+397,Cheyenne,CYS,1060.0,Cheyenne CYS
+398,Cody,COD,694.0,Cody COD
+399,Gillette,GCC,894.0,Gillette GCC
+400,Jackson,JAC,533.0,Jackson JAC
+401,Riverton,RIW,1250.0,Riverton RIW
+402,Rock Springs,RKS,1242.0,Rock Springs RKS
+403,Sheridan,SHR,1550.0,Sheridan SHR
+404,,,1525.0,
